@@ -1,1 +1,2 @@
-my project git readme
+Git readme project 
+Structuring my git tasks
